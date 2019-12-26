@@ -1,4 +1,4 @@
-FROM php:7.2-apache
+FROM php:7.2-alpine
 MAINTAINER Pierre Cheynier <pierre.cheynier@gmail.com>
 
 ENV PHPIPAM_SOURCE https://github.com/phpipam/phpipam/
